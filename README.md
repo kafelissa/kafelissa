@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://kafelissa.netlify.app/guess"><img width="80%" alt="" src="https://lh3.googleusercontent.com/d/1BAW_6k1bJNmZHE8O1cZNro3ZIZkt0Mbw?"/></a></p>
 <p align="center"><q> Are you wandering, little one... lost, perhaps? </q></p>
-<p align="center"><var>~ kwafeLt was here</var></p>
+<p align="center"><var>~ k w a f e L t</var></p>
