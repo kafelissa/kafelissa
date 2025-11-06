@@ -1,3 +1,10 @@
 {
-  "":""
+  "nama": "KwafeLt",
+  "asal": "Python Update",
+  "jenis": "json",
+  "nilai": [
+    1,
+    2,
+    3
+  ]
 }
