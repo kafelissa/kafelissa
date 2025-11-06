@@ -1,10 +1,5 @@
 {
-  "nama": "KwafeLt",
-  "asal": "Python Update",
-  "jenis": "json",
-  "nilai": [
-    1,
-    2,
-    3
-  ]
+  "owner": "kwafeLt",
+  "lastseen": "2025.11.06.155011",
+  "note": "test"
 }
