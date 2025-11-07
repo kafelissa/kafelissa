@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Micro Blog Saya</title>
+<subtitle>Catatan ringkas dan bernada peribadi</subtitle>
+<link href="https://felissa.netlify.app/" rel="alternate"/>
+<link href="https://felissa.netlify.app/feed.xml" rel="self"/>
+<updated>2025-11-05T12:00:00+08:00</updated>
+<id>tag:felissa.netlify.app,2025-11-05:feed</id>
+<author><name>kwafeLt</name></author>
+
+<entry>
+<title>Catatan Pertama</title>
+<link href="https://felissa.netlify.app/post/1"/>
+<id>tag:felissa.netlify.app,2025-11-05:post-1</id>
+<updated>2025-11-05T12:00:00+08:00</updated>
+<summary>hening pagi</summary>
+<content type="text"><![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed vitae nulla a libero sodales fermentum.
+]]></content>
+</entry>
+
+<entry>
+<title>Catatan Kedua</title>
+<link href="https://felissa.netlify.app/post/2"/>
+<id>tag:felissa.netlify.app,2025-11-05:post-2</id>
+<updated>2025-11-05T12:00:00+08:00</updated>
+<summary>senyap sekejap</summary>
+<content type="text"><![CDATA[
+Nulla facilisi. Vivamus porttitor venenatis metus.
+Aenean in turpis ut elit sodales accumsan at sed erat.
+]]></content>
+</entry>
+
+<entry>
+<title>Catatan Ketiga</title>
+<link href="https://felissa.netlify.app/post/3"/>
+<id>tag:felissa.netlify.app,2025-11-05:post-3</id>
+<updated>2025-11-05T12:00:00+08:00</updated>
+<summary>langkah perlahan</summary>
+<content type="text"><![CDATA[
+Donec vehicula velit sed sapien pretium aliquet.
+Nam nec sem in dui elementum dignissim at vitae metus.
+]]></content>
+</entry>
+
+</feed>
